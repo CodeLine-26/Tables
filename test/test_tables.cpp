@@ -1,5 +1,5 @@
 ﻿#include "gtest.h"
-#include "maps.h"
+#include "Table.h"
 
 using namespace Table;
 
