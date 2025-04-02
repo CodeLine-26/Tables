@@ -1,4 +1,4 @@
-name: Tables
+name: tables
 
 on: [push, pull_request]
 
